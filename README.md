@@ -4,6 +4,6 @@
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zackary-santana/)
 
-View my [|attach|](https://attach.fly.dev/)
+View my [|attach|](https://attach.fly.dev/). |attach|'s are an open-source portfolio website made with Solid.js, Tailwind, and Express.ks that are easily customizable and freely hosted, you can clone your own [here](https://github.com/ZackarySantana/Attach).
 
-And view my [Portfolio](https://zackaryjamessantana.com/)
+And view my [Portfolio](https://zackaryjamessantana.com/) which is made with Fresh, Deno, Preact.js, Twind, and hosted with Fly.io!
