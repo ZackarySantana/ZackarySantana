@@ -1,4 +1,4 @@
-### Welcome visitors! I'm Zackary Santana
+### Welcome visitors! I'm Zackary Santana (He/His/Him)
 
 [![GitHub Stats This Year](https://github-readme-stats.vercel.app/api?username=ZackarySantana&count_private=true&show_icons=true&theme=dracula&hide=stars,issues&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
